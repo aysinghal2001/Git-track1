@@ -1,2 +1,7 @@
 File 6 was empty earlier. 
 I've made changes by writing these 2 lines
+Making changes from main branch
+
+1
+1
+1
