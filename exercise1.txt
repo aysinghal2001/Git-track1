@@ -1,2 +1,30 @@
-1. git clone https://github.com/aysinghal2001/Git-track1.git
-2. 
+1. git init
+2. touch file1.txt
+    touch exercise1.txt
+    start file1.txt
+    cat file1.txt
+3. git add .
+   git commit -a -m "Pushed file1.txt and exercise1.txt"
+4. touch file2.txt
+    touch file3.txt
+    touch file4.txt
+    touch file5.txt
+    touch file6.txt
+    start file2.txt
+    start file3.txt
+    start file4.txt
+    start file5.txt
+    start file6.txt
+
+    git add .
+    git commit -a -m "Pushed files"
+    git log
+    git diff bc5db11a9ee96fc454b146061bb8ba2250cb3ee1 d27f9399fde711b5b0db0d26b1f72fd4c7a32195
+    git add file2.txt file3.txt
+    git status
+    git commit -a -m "Pushed file 2 and 3"
+    git add file6.txt
+    git diff 962947a2702561863c7a49d50ce1417cf2969059 f80a42c348ef2f7e304db29b81539ac451380e70
+    git commit -a -m "Pushed file 6"
+
+5. 
